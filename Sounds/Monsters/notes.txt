@@ -1,0 +1,5 @@
+Some Hell Knight's sounds might be usable also for Baron and Cacodemon, mainly the projectile sounds. I couldn't find any for the Caco, seriously.
+
+There are sometimes mono and stereo variants for sounds, mostly when a monster can be controlled through a demon rune. ZDoom should handle this automatically (downsampling stereo sounds to mono when played in 3D), so maybe it's useless to have it like this. Whatever. I pretty much did this only with the Revenant before dropping this idea, anyway.
+
+Lost Souls have some sounds in the game's files but afaik only one, completely unrelated at that, is used. I still included them.
